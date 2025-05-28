@@ -26,5 +26,3 @@ if result:
 else:
     print("未找到该文物的信息。")
 
-def t():
-    print("ok")
